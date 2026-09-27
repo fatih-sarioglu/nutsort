@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d302e224167aba49b387dfbe357ab20, type: 3}
+  m_Name: ColorPalette
+  m_EditorClassIdentifier: 
+  _baseMaterial: {fileID: 2100000, guid: 89fa6c31217d15c46a3f443093897b5a, type: 2}
+  _entries:
+  - Key: red
+    Color: {r: 0.8980392, g: 0.22352941, b: 0.20784314, a: 0}
+  - Key: blue
+    Color: {r: 0.11764706, g: 0.53333336, b: 0.8980392, a: 0}
+  - Key: green
+    Color: {r: 0.2627451, g: 0.627451, b: 0.2784314, a: 0}
+  - Key: yellow
+    Color: {r: 0.99215686, g: 0.84705883, b: 0.20784314, a: 0}
+  - Key: purple
+    Color: {r: 0.5568628, g: 0.14117648, b: 0.6666667, a: 0}
+  - Key: orange
+    Color: {r: 0.9843137, g: 0.54901963, b: 0, a: 0}
+  - Key: cyan
+    Color: {r: 0, g: 0.6745098, b: 0.75686276, a: 0}
+  - Key: pink
+    Color: {r: 0.9254902, g: 0.2509804, b: 0.47843137, a: 0}

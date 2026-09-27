@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bccea1d30faadb44ab043203be4224a0, type: 3}
+  m_Name: AnimationConfig
+  m_EditorClassIdentifier: 
+  LiftDuration: 0.18
+  LiftStagger: 0.04
+  LiftEase: 27
+  DropDuration: 0.2
+  DropEase: 5
+  TravelDuration: 0.28
+  TravelArcHeight: 1.5
+  NutStagger: 0.07
+  SpinTurnsPerSlot: 1
+  MaxSpinTurns: 3
+  SpinDirection: 1
+  CapDropHeight: 2
+  CapDuration: 0.3
+  CapEase: 30
+  CapPunch: 0.08
+  ShakeDuration: 0.25
+  ShakeStrength: 0.3
+  ShakeVibrato: 20
+  WinBoltStagger: 0.06
+  WinPunch: 0.15
+  WinPunchDuration: 0.35
+  WinNutHop: 0.6
+  WinPanelDelay: 0.3

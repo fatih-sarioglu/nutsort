@@ -1,0 +1,15 @@
+{
+  "id": 8,
+  "capacity": 4,
+  "minMoves": 18,
+  "bolts": [
+    ["green", "blue", "yellow", "red"],
+    ["red", "green", "yellow", "red"],
+    ["orange", "purple", "purple", "purple"],
+    ["green", "orange", "red", "orange"],
+    ["purple", "yellow", "green", "blue"],
+    ["yellow", "blue", "orange", "blue"],
+    [],
+    []
+  ]
+}

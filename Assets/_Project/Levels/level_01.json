@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "capacity": 3,
+  "minMoves": 4,
+  "bolts": [
+    ["blue", "blue", "red"],
+    ["red", "blue", "red"],
+    []
+  ]
+}
