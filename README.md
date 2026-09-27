@@ -4,6 +4,10 @@ A small nuts and bolts sorting puzzle made in Unity.
 
 I kept seeing these sort games on mobile and got curious about how they actually work. So I made my own version to figure it out.
 
+<img width="260" height="203" alt="b22afw" src="https://github.com/user-attachments/assets/099de28a-b77f-4b4c-8d64-7fb44294093b" />
+
+You can play it here: [![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?logo=itch.io&logoColor=white)](https://fatihsarioglv.itch.io/nutsort)
+
 ## How to play
 
 Tap a bolt to lift the nuts on top, then tap another bolt to move them there. Nuts can only go onto an empty bolt or onto a nut of the same color. When a bolt is filled with a single color it gets capped and locked. Sort every color to finish the level.
